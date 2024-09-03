@@ -2,6 +2,8 @@
 
 This session was presented in May 2024 by Sarah "sadukie" Dutkiewicz at MenderCon 2024.
 
+[Slides](./MenderCon-2024-From-Legacy-Monolith-towards-Microservices-via-EventStorming.pdf)
+
 ## Supporting Links
 
 - [eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - eCommerce app used to set the picture of the theme of eCommerce
